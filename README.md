@@ -27,7 +27,8 @@ git clone https://github.com/beacosta364/MyFirstPage.git
 Taller Introducción Aplicaciones Web
 Brayan Estein Acosta Achinte.
 Parte Teórica:
-1. ¿Qué es HTML y cuál es su función en la web?
+
+#. ¿Qué es HTML y cuál es su función en la web?
 “HTML (HyperText Markup Language) “lenguaje de marcado de hipertexto” es el lenguaje estándar utilizado para crear y estructurar páginas web. Sirve para definir el contenido y la estructura de una página web mediante el uso de etiquetas y elementos que permiten la inclusión de texto, imágenes, enlaces, vídeos y otros recursos multimedia. HTML proporciona la base sobre la cual se construyen la mayoría de las páginas web por no decir todas, permitiendo a los navegadores interpretar y mostrar el contenido de manera correcta. Además, HTML se utiliza en conjunto con CSS y JavaScript para mejorar el diseño y la funcionalidad de los sitios web, proporcionando una experiencia de usuario más rica y dinámica.” (Cursos Femxa, 2024)
 2. ¿Qué es una etiqueta HTML y menciona las etiquetas más comunes?
 “Una etiqueta HTML es un elemento fundamental del lenguaje HTML que se utiliza para definir y estructurar el contenido de una página web. Las etiquetas HTML están compuestas por un nombre de etiqueta encerrado entre corchetes angulares < >, y generalmente vienen en pares: una etiqueta de apertura y una etiqueta de cierre, con el contenido ubicado entre ellas. Por ejemplo, <p> es una etiqueta de apertura para un párrafo y </p> es la etiqueta de cierre. Algunas etiquetas no requieren cierre, como <img> para insertar imágenes. Las etiquetas HTML indican a los navegadores cómo deben mostrar y estructurar el contenido, como texto, imágenes, enlaces y otros elementos multimedia.” (Cursos Femxa, 2024)
