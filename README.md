@@ -88,15 +88,15 @@ Diferentes selectores y elementos en HTML tienen distintas propiedades asignadas
 
 6. ¿Qué es un selector en CSS y cuales tipos existen?
 	En CSS, un selector es un patrón que identifica uno o más elementos HTML a los que se les aplicarán estilos específicos. “Un selector CSS es la primera parte de una regla CSS. Es un patrón de elementos y otros términos que indican al navegador qué elementos HTML se seleccionan para aplicarles una regla que incluye los valores de las propiedades CSS. El elemento o los elementos seleccionados por el selector se denominan sujeto del selector.” (Mozilla Developer Network, 2024)
-A.	Selector universal (*): Selecciona todos los elementos de la página.
-B.	Selector de tipo o etiqueta (elemento): Aplica estilos a todas las etiquetas HTML de un mismo tipo.
-C.	Selector de clase (.nombre-clase): Aplica estilos a los elementos que tengan una clase específica.
-D.	Selector de ID (#id): Aplica estilos a un único elemento con un identificador (id).
-E.	Selector de atributo ([atributo]): Aplica estilos a los elementos que tienen un atributo específico.
-F.	Selector descendiente (elemento1 elemento2): Aplica estilos a los elementos dentro de otro elemento.
-G.	Selector hijo (elemento1 > elemento2): Selecciona solo los elementos que son hijos directos de otro.
-H.	Selector adyacente (elemento1 + elemento2): Selecciona el primer elemento que sigue inmediatamente a otro.
-I.	Selector de hermano general (elemento1 ~ elemento2): Selecciona todos los elementos hermanos de un mismo tipo después de otro.
+*	Selector universal (*): Selecciona todos los elementos de la página.
+*	Selector de tipo o etiqueta (elemento): Aplica estilos a todas las etiquetas HTML de un mismo tipo.
+*	Selector de clase (.nombre-clase): Aplica estilos a los elementos que tengan una clase específica.
+*	Selector de ID (#id): Aplica estilos a un único elemento con un identificador (id).
+*	Selector de atributo ([atributo]): Aplica estilos a los elementos que tienen un atributo específico.
+*	Selector descendiente (elemento1 elemento2): Aplica estilos a los elementos dentro de otro elemento.
+*	Selector hijo (elemento1 > elemento2): Selecciona solo los elementos que son hijos directos de otro.
+*	Selector adyacente (elemento1 + elemento2): Selecciona el primer elemento que sigue inmediatamente a otro.
+*	Selector de hermano general (elemento1 ~ elemento2): Selecciona todos los elementos hermanos de un mismo tipo después de otro.
 (ENIUN, 2024).
 7. ¿Qué es JavaScript y cómo añade la interactividad a las páginas web?
 “JavaScript es un lenguaje de programación esencial para el desarrollo web, conocido por su capacidad para crear contenido dinámico e interactivo. Es un lenguaje de programación interpretado, ligero y dinámico que se utiliza principalmente para crear contenido interactivo y dinámico en páginas web. Es uno de los lenguajes esenciales en el desarrollo web junto con HTML y CSS.”   (APINEM, 2024).
